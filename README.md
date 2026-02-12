@@ -1,4 +1,4 @@
-# 🚀 YOUR_NAME  
+SHIVANI PS
 
 <div align="center">
 
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:shivanicoorg18@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
